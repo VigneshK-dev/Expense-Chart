@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+
+.box{
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.boxcolor{
+    background-color: grey;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.datebox{
+    width: 110px;
+    height: 110px;
+    border-radius: 10px;
+    background-color: rgb(33, 33, 33);
+   border: 1px solid white;
+}
+
+.titlebox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    font-size: 20px;
+    background-color: rgb(92, 4, 127);
+    border: 2px solid white;
+    font-weight: 600;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+.month{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+.day{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.con{
+    border-radius: 20px;
+    padding: 10px;
+    background-color: rgb(33, 33, 33);
+    width: 70%;
+}
+
+

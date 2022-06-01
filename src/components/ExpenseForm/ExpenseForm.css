@@ -1,0 +1,39 @@
+.form{
+    width: 71%;
+}
+
+.formcard{
+    background-color: rgb(167,148, 234);
+    border-radius: 10px;
+}
+
+.inputbox{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.date{
+    width: 41%;
+
+}
+
+.extformcard{
+    background-color: rgb(167,148, 234);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formbtn{
+    font-size: 20px;
+    background-color: rgb(92, 4, 127);
+    border: 2px solid white;
+    font-weight: 600;
+    padding: 20px 10px; 
+    border-radius: 10px;
+    width: 30%;
+
+}
